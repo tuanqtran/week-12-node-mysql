@@ -1,0 +1,23 @@
+{
+  "name": "week-12-node-mysql",
+  "version": "1.0.0",
+  "description": "Week of 12 HW: Node.js &amp; MySQL",
+  "main": "BamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuanqtran/week-12-node-mysql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuanqtran/week-12-node-mysql/issues"
+  },
+  "homepage": "https://github.com/tuanqtran/week-12-node-mysql#readme",
+  "dependencies": {
+    "inquirer": "^1.2.2",
+    "mysql": "^2.11.1"
+  }
+}
